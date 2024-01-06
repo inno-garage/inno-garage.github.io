@@ -1,4 +1,4 @@
-baseURL = "https://inno-garage.github.io"
+baseURL = "https://inno-garage.github.io/"
 languageCode = "zh-cn"
 title = "blog"
 theme = "github-style"
