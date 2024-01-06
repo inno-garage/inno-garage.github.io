@@ -1,0 +1,37 @@
+baseURL = "https://inno-garage.github.io"
+languageCode = "zh-cn"
+title = "blog"
+theme = "github-style"
+googleAnalytics = "UA-123456-789"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+canonifyurls = true
+
+[params]
+  author = "take-2405"
+  description = "I'm backend engineer. Graduated from Future University Hakodate."
+  github = "take-2405"
+  twitter = "Jaksho500"
+  url = ""
+  rss = false
+  lastmod = false
+#  userStatusEmoji = "😀"
+  favicon = "/images/icon.png"
+  location = "Japan"
+  enableGitalk = false
+
+#  [params.gitalk]
+#    clientID = "Your client ID"
+#    clientSecret = "Your client secret"
+#    repo = "repo"
+#    owner = "MeiK2333"
+#    admin = "MeiK2333"
+#    id = "location.pathname"
+#    labels = "gitalk"
+#    perPage = 15
+#    pagerDirection = "last"
+#    createIssueManually = true
+#    distractionFreeMode = false
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
