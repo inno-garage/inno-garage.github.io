@@ -17,7 +17,8 @@ canonifyurls = true
   rss = false
   lastmod = false
   userStatusEmoji = "♨️"
-  favicon = "/images/icon.png"
+  avatar="/avatar.png"
+  favicon = "/icon.png"
   location = "Japan"
   enableGitalk = false
 
