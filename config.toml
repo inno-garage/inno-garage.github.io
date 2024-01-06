@@ -3,7 +3,6 @@ publishDir = "docs"
 languageCode = "zh-cn"
 title = "blog"
 theme = "github-style"
-googleAnalytics = "UA-123456-789"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 canonifyurls = true
