@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://inno-garage.github.io/</loc>
+    <lastmod>2024-01-07T00:30:50+09:00</lastmod>
+  </url><url>
+    <loc>https://inno-garage.github.io/post/</loc>
+    <lastmod>2024-01-07T00:30:50+09:00</lastmod>
+  </url><url>
+    <loc>https://inno-garage.github.io/post/title_of_the_post/</loc>
+    <lastmod>2024-01-07T00:30:50+09:00</lastmod>
+  </url><url>
     <loc>https://inno-garage.github.io/readme/</loc>
     <lastmod>2024-01-06T23:52:49+09:00</lastmod>
-  </url><url>
-    <loc>https://inno-garage.github.io/</loc>
   </url><url>
     <loc>https://inno-garage.github.io/categories/</loc>
   </url><url>
